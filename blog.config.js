@@ -19,7 +19,7 @@ const BLOG = {
 
   AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || '信哲(Xinzhe)', // 您的昵称
   BIO: process.env.NEXT_PUBLIC_BIO || 'Dream it. Chase it. Code it.', // 作者简介
-  LINK: process.env.NEXT_PUBLIC_LINK || 'https://www.shintetu.com', // 网站地址
+  LINK: process.env.NEXT_PUBLIC_LINK || 'https://www.jp.shintetu.com', // 网站地址
   KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || '信哲,高信哲,Xinzhe,信哲的博客,信哲のブログ,', // 网站关键词 英文逗号隔开
 
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
